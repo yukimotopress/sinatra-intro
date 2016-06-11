@@ -1,9 +1,9 @@
 
-See the live version @ [`yukipress.github.io/sinatra-cookbook`](http://yukipress.github.io/sinatra-cookbook)
+See the live version @ [`yukipress.github.io/sinatra-book`](http://yukipress.github.io/sinatra-book)
 
 ---
 
-# Sinatra Cookbook (Manuscripts Book Edition)
+# Sinatra Book (Manuscripts Edition)
 
 by [Chris Schneider](https://github.com/cschneid), [Zachary Scott](https://github.com/zzak) et al
 
