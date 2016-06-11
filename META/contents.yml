@@ -1,0 +1,74 @@
+######################
+#  Table of Contents
+
+- title: Introduction
+  path:  01__Introduction.md
+  sections:
+  - title: What is Sinatra?
+  - title: Installation
+    sections:
+    - title: Dependencies
+    - title: Living on the Edge
+  - title: Hello World Application
+  - title: Real World Applications in Sinatra
+    sections:
+    - title: Github Services
+  - title: About this book
+  - title: Need Help?
+
+- title: Getting to know Sinatra
+  sections:
+  - title: It's Witchcraft
+  - title: Routing
+  - title: Filters
+    sections:
+    - title: before
+    - title: after
+    - title: Pattern Matching
+  - title: Handlers
+  - title: Templates
+  - title: Helpers
+
+- title: Organizing your application
+
+- title: Views
+  sections:
+  - title: RSS Feed
+  - title: CoffeeScript
+
+- title: Models
+  sections:
+  - title: DataMapper
+
+- title: Helpers
+  sections:
+  - title:  Implementation of rails style partials
+
+- title: Middleware
+  sections:
+  - title:  Rack HTTP Basic Authentication
+
+- title: Testing
+  sections:
+  - title: Using Rack::Test
+    sections:
+    - title: Firing Requests
+    - title: "Modifying `env`"
+    - title: Cookies
+    - title: Asserting Expectations About The Response
+    - title: Optional Test Setup
+    - title: "Making `Rack::Test` available to all test cases"
+
+- title: Development Techniques
+  sections:
+  - title: Automatic Code Reloading
+    sections:
+    - title: Shotgun
+
+- title: Deployment
+  sections:
+  - title: Heroku
+
+- title: Contributing
+  sections:
+  - title: There are plenty of ways to contribute to Sinatra.
