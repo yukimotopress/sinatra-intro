@@ -1,5 +1,5 @@
 
-See the live version @ [`yukipress.github.io/sinatra-book`](http://yukipress.github.io/sinatra-book)
+See the live version @ [`yukimotopress.github.io/sinatra-book`](http://yukimotopress.github.io/sinatra-book)
 
 ---
 
