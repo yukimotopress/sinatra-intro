@@ -1,9 +1,9 @@
 
-See the live version @ [`yukimotopress.github.io/sinatra-book`](http://yukimotopress.github.io/sinatra-book)
+See the live version @ [`yukimotopress.github.io/sinatra-intro`](http://yukimotopress.github.io/sinatra-intro)
 
 ---
 
-# Sinatra Book (Manuscripts Edition)
+# Sinatra (Manuscripts Book Edition)
 
 by [Chris Schneider](https://github.com/cschneid), [Zachary Scott](https://github.com/zzak) et al
 
