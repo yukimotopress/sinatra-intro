@@ -17,6 +17,7 @@
   - title: Need Help?
 
 - title: Getting to know Sinatra
+  path:  02__Getting_to_know_Sinatra.md
   sections:
   - title: It's Witchcraft
   - title: Routing
@@ -30,25 +31,31 @@
   - title: Helpers
 
 - title: Organizing your application
+  path:  03__Organizing_your_application.md
 
 - title: Views
+  path:  04__Views.md
   sections:
   - title: RSS Feed
   - title: CoffeeScript
 
 - title: Models
+  path:  05__Models.md
   sections:
   - title: DataMapper
 
 - title: Helpers
+  path:  06__Helpers.md
   sections:
   - title:  Implementation of rails style partials
 
 - title: Middleware
+  path:  07__Middleware.md
   sections:
   - title:  Rack HTTP Basic Authentication
 
 - title: Testing
+  path:  08__Testing.md
   sections:
   - title: Using Rack::Test
     sections:
@@ -60,15 +67,18 @@
     - title: "Making `Rack::Test` available to all test cases"
 
 - title: Development Techniques
+  path:  09__Development.md
   sections:
   - title: Automatic Code Reloading
     sections:
     - title: Shotgun
 
 - title: Deployment
+  path:  10__Deployment.md
   sections:
   - title: Heroku
 
 - title: Contributing
+  path:  11__Contributing.md
   sections:
   - title: There are plenty of ways to contribute to Sinatra.
